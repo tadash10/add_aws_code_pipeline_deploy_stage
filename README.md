@@ -71,4 +71,4 @@ Step 4: Customize Further
 You can further customize your pipeline by adding more stages and actions within the create_code_pipeline.py script.
 Troubleshooting
 
-    If you encounter issues with AWS credentials, ensure that your AWS CLI is configured correctly, or you can provide your AWS access key and secret key directly in config.json.
+    If you encounter issues with AWS credentials, ensure that your AWS CLI is configured correctly, or you can provide your AWS access key and secret key directly in config.json .
